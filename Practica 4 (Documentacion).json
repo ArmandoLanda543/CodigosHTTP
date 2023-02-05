@@ -1,0 +1,202 @@
+[
+  {
+    "PassengerId": 1,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Holverson, Mr. Alexander Oska",
+    "Sex": "Male",
+    "Age": 42
+  },
+  {
+    "PassengerId": 2,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Holverson, Mr. Alexander Oska",
+    "Sex": "Male",
+    "Age": 42
+  },
+  {
+    "PassengerId": 3,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Heikkinen, Miss. Laina",
+    "Sex": "female",
+    "Age": 26
+  },
+  {
+    "PassengerId": 4,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "Sex": "female",
+    "Age": 35
+  },
+  {
+    "PassengerId": 5,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Allen, Mr. William Henry",
+    "Sex": "male",
+    "Age": 35
+  },
+  {
+    "PassengerId": 6,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Moran, Mr. James",
+    "Sex": "male",
+    "Age": 0
+  },
+  {
+    "PassengerId": 7,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "McCarthy, Mr. Timothy J",
+    "Sex": "male",
+    "Age": 54
+  },
+  {
+    "PassengerId": 8,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Palsson, Master. Gosta Leonard",
+    "Sex": "male",
+    "Age": 2
+  },
+  {
+    "PassengerId": 9,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "Sex": "female",
+    "Age": 27
+  },
+  {
+    "PassengerId": 10,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Nasser, Mrs. Nicholas (Adele Achem)",
+    "Sex": "female",
+    "Age": 14
+  },
+  {
+    "PassengerId": 11,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Sandstrom, Miss. Marguerite Rut",
+    "Sex": "female",
+    "Age": 4
+  },
+  {
+    "PassengerId": 12,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Bonnell, Miss. Elizabeth",
+    "Sex": "female",
+    "Age": 58
+  },
+  {
+    "PassengerId": 13,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Saundercock, Mr. William Henry",
+    "Sex": "male",
+    "Age": 20
+  },
+  {
+    "PassengerId": 14,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Andersson, Mr. Anders Johan",
+    "Sex": "male",
+    "Age": 39
+  },
+  {
+    "PassengerId": 15,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Vestrom, Miss. Hulda Amanda Adolfina",
+    "Sex": "female",
+    "Age": 14
+  },
+  {
+    "PassengerId": 16,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Hewlett, Mrs. (Mary D Kingcome)",
+    "Sex": "male",
+    "Age": 22
+  },
+  {
+    "PassengerId": 17,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Rice, Master. Eugene",
+    "Sex": "male",
+    "Age": 2
+  },
+  {
+    "PassengerId": 18,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Williams, Mr. Charles Eugene",
+    "Sex": "male",
+    "Age": 0
+  },
+  {
+    "PassengerId": 19,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",
+    "Sex": "female",
+    "Age": 31
+  },
+  {
+    "PassengerId": 20,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Masselmani, Mrs. Fatima",
+    "Sex": "female",
+    "Age": 0
+  },
+  {
+    "PassengerId": 21,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Fynney, Mr. Joseph J",
+    "Sex": "male",
+    "Age": 35
+  },
+  {
+    "PassengerId": 22,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Beesley, Mr. Lawrence",
+    "Sex": "male",
+    "Age": 34
+  },
+  {
+    "PassengerId": 23,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "McGowan, Miss. Anna \"\"Annie\"\"",
+    "Sex": "female",
+    "Age": 15
+  },
+  {
+    "PassengerId": 24,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Sloper, Mr. William Thompson",
+    "Sex": "male",
+    "Age": 28
+  },
+  {
+    "PassengerId": 25,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Palsson, Miss. Torborg Danira",
+    "Sex": "female",
+    "Age": 8
+  }
+]
